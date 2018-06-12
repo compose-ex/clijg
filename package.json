@@ -1,8 +1,9 @@
 {
   "name": "clijg",
   "version": "1.0.0",
-  "description": "",
+  "description": "A skeleton CLI for Hosted JanusGraph 0.1.1 ",
   "main": "clijg.js",
+  "homepage": "https://github.com/compose-ex/clijg",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

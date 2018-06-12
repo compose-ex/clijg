@@ -10,6 +10,12 @@ npm install -g clijg
 
 * deletegraph
 
-### deletegraph <servername> <graphname> <username> <password>
+## Usage
+
+### deletegraph
 
 Will delete the named graph from the server, taking the appropriate steps to ensure it is correctly removed from the ConfiguredGraphManagement system.
+
+```
+deletegraph <servername> <graphname> <username> <password>
+```
